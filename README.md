@@ -100,6 +100,4 @@ Linear Regression provides a **good baseline model**, but struggles with:
 git clone https://github.com/Prashant517/Build-Evaluate-a-Linear-Regression-Model.git
 cd Build-Evaluate-a-Linear-Regression-Model
 pip install -r requirements.txt
-```
-open file - task1_ml_linear_regression.ipynb
-and run Execute cell
+jupyter notebook task1_ml_linear_regression.ipynb 
